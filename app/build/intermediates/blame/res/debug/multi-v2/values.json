@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/allens/Desktop/android_pjsip/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/allens/Desktop/android_pjsip/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "104,59,212,158",
+                        "endColumns": "52,43,52,52",
+                        "endOffsets": "152,98,260,206"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "265,318,362,415",
+                        "endColumns": "52,43,52,52",
+                        "endOffsets": "313,357,410,463"
+                    }
+                },
+                {
+                    "source": "/Users/allens/Desktop/android_pjsip/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "151,209",
+                        "endColumns": "57,55",
+                        "endOffsets": "204,260"
+                    }
+                },
+                {
+                    "source": "/Users/allens/Desktop/android_pjsip/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,57",
+                        "endColumns": "47,47",
+                        "endOffsets": "149,100"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,47",
+                        "endOffsets": "98,146"
+                    }
+                },
+                {
+                    "source": "/Users/allens/Desktop/android_pjsip/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "468,759",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "754,914"
+                    }
+                }
+            ]
+        }
+    ]
+}
